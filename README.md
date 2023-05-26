@@ -1,3 +1,3 @@
 # Image-Calculus
 
-Allows you to take the derivative an integral of images.
+Allows you to take the derivative and integral of images.
